@@ -1,2 +1,2 @@
-# Pigtek
-site institucional Pigek
+# Pigtech
+site institucional Pigech
